@@ -2,8 +2,8 @@
 <p align="center"><b>Security Researcher · System Architect · Linux Developer</b></p>
 
 <p align="center">
-  <a href="mailto:p1rater@bluearch.network">
-    <img src="https://img.shields.io/badge/Email-p1rater%40bluearch.network-cc0000?style=flat-square&logo=gmail&logoColor=white"/>
+  <a href="mailto:bluearchdev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-bluearchdev%40gmail.com-cc0000?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/p1rater">
     <img src="https://img.shields.io/github/followers/p1rater?label=Follow&style=flat-square&logo=github"/>
@@ -13,9 +13,9 @@
 ---
 
 ### 🔭 Focus & Research
-Sistem güvenliği, düşük seviyeli programlama ve yetkilendirme modelleri üzerine çalışıyorum. 
-- 🌱 **NanLang:** Yüksek performanslı, sinyal tabanlı sistem dili geliştiricisi.
-- 🛡️ **pudo:** Gelişmiş yetki yükseltme ve Linux capability yönetimi araştırmacısı.
+Developing security-focused tools, high-performance systems, and advanced authorization models.
+- 🌱 **NanLang:** Lead developer of a high-performance, signal-driven systems language.
+- 🛡️ **pudo:** Researcher in advanced privilege escalation and Linux capability management.
 - 💻 **Environment:** Daily driver Arch Linux.
 
 ---
@@ -26,7 +26,7 @@ Sistem güvenliği, düşük seviyeli programlama ve yetkilendirme modelleri üz
 <tr>
 <td width="50%" valign="top">
 
-### [NanLang](https://github.com/p1rater/NanLang)
+### [NanLang v4.0.3](https://github.com/p1rater/NanLang)
 Ultra-fast, signal-driven systems programming language.
 - **Speed:** $O(1)$ hash-based lookups & AOT compilation.
 - **Minimal:** 143-byte ELF output support.
