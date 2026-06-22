@@ -12,47 +12,8 @@
 
 ---
 
-### 🔭 Focus & Research
-Developing security-focused tools, high-performance systems, and advanced authorization models.
-- 🌱 **NanLang:** Lead developer of a high-performance, signal-driven systems language.
-- 🛡️ **pudo:** Researcher in advanced privilege escalation and Linux capability management.
-- 💻 **Environment:** Daily driver Arch Linux.
-
----
-
-## 🚀 Featured Projects
-
-<table border="0">
-<tr>
-<td width="50%" valign="top">
-
-### [NanLang v4.0.3](https://github.com/p1rater/NanLang)
-Ultra-fast, signal-driven systems programming language.
-- **Speed:** $O(1)$ hash-based lookups & AOT compilation.
-- **Minimal:** 143-byte ELF output support.
-- **Tech:** C++20, AVX2/SIMD, and LTO optimized.
-- **UI:** Built-in GTK3 scene rendering engine.
-
-</td>
-<td width="50%" valign="top">
-
-### [pudo](https://github.com/p1rater/pudo)
-Privilege escalation tool — more powerful than sudo.
-- **Security:** Fine-grained Linux capability restriction.
-- **Auth:** HMAC-signed, tty-scoped session tokens.
-- **Inheritance:** Ambient capability support.
-- **Audit:** Detailed logging via `/var/log/pudo.log`.
-
-</td>
-</tr>
-</table>
-
----
-
 ### 🛠️ Tech Stack
-**Languages:** `C++20`, `C`, `Python`, `Bash`, `Raku`  
-**Core:** `Linux Kernel`, `Arch Linux`, `Git`, `AOT Compilation`  
-**Security:** `Metasploit`, `Wireshark`, `Penetration Testing`
+**Languages:** `C++`, `C`, `Python` 
 
 ---
 
