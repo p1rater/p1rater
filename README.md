@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="mailto:bluearchdev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-bluearchdev%40gmail.com-cc0000?style=flat-square&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-p1rateracker%40proton.me-cc0000?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/p1rater">
     <img src="https://img.shields.io/github/followers/p1rater?label=Follow&style=flat-square&logo=github"/>
