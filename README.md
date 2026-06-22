@@ -1,5 +1,5 @@
-# <p align="center">🛡️ p1rater</p>
-<p align="center"><b>Security Researcher · System Architect · Linux Developer</b></p>
+# <p align="center">p1rater</p>
+<p align="center"><b>Reverse Engineer · Kernel Developer</b></p>
 
 <p align="center">
   <a href="mailto:bluearchdev@gmail.com">
